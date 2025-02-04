@@ -58,11 +58,8 @@ import work4 from "./images/work4.jpg";
 import work5 from "./images/work5.jpg";     
 import work6 from "./images/work6.jpg";     
 import work7 from "./images/work7.jpg";     
-import ghayth1 from "./images/ghayth1.jpeg";     
-import ghayth2 from "./images/ghayth2.jpeg";     
 import dubai2 from "./images/dubai2.jpeg";     
 import dubai3 from "./images/dubai3.jpeg";     
-import ghayth0 from "./images/ghayth0.jpg";
 import sql from "./images/sql.jpg";
 import flask from "./images/flask.png";
 import dash from "./images/dash.jpg";
@@ -111,5 +108,5 @@ export {
   mysqlLogo,
   figmaLogo,
   python,ba,t1,t2,
-  work1,work2,work3,work4,work5,work6,work7,SonarQube,ghayth1,ghayth2,dubai2,dubai3,ghayth0,i1,i2,i3,talen,PostgreSQL,sql,flask,dash
+  work1,work2,work3,work4,work5,work6,work7,SonarQube,dubai2,dubai3,i1,i2,i3,talen,PostgreSQL,sql,flask,dash
 };
