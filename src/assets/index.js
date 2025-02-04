@@ -33,7 +33,6 @@ import reactLogo from "./images/react.png";
 import nodejsLogo from "./images/nodejs.png";
 import expressLogo from "./images/express.png";
 import laravelLogo from "./images/laravel.png";
-import SonarQube from "./images/SonarQube.png";
 import python from "./images/python.png";
 import i1 from "./images/i1.png";
 import i2 from "./images/i2.png";
@@ -58,8 +57,7 @@ import work4 from "./images/work4.jpg";
 import work5 from "./images/work5.jpg";     
 import work6 from "./images/work6.jpg";     
 import work7 from "./images/work7.jpg";     
-import dubai2 from "./images/dubai2.jpeg";     
-import dubai3 from "./images/dubai3.jpeg";     
+   
 import sql from "./images/sql.jpg";
 import flask from "./images/flask.png";
 import dash from "./images/dash.jpg";
@@ -108,5 +106,5 @@ export {
   mysqlLogo,
   figmaLogo,
   python,ba,t1,t2,
-  work1,work2,work3,work4,work5,work6,work7,SonarQube,dubai2,dubai3,i1,i2,i3,talen,PostgreSQL,sql,flask,dash
+  work1,work2,work3,work4,work5,work6,work7,i1,i2,i3,talen,PostgreSQL,sql,flask,dash
 };
