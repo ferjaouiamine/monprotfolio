@@ -12,23 +12,18 @@ import Testimonial from "./components/tesimonial/Testimonial";
 
 function App() {
   return (
-    <Router>
-      <div className="w-full h-auto bg-bodyColor text-lightText px-4">
-        <Navbar />
-        <div className="max-w-screen-xl mx-auto">
-          <Routes>
-            <Route path="/" element={<Banner />} />
-            <Route path="/features" element={<Features />} />
-            <Route path="/projects" element={<Projects />} />
-            <Route path="/resume" element={<Resume />} />
-            <Route path="/contact" element={<Contact />} />
-            <Route path="/testimonial" element={<Testimonial />} />
-          </Routes>
-          <Footer />
-          <FooterBottom />
-        </div>
-      </div>
-    </Router>
+    <div className="w-full h-auto bg-bodyColor text-lightText px-4">
+    <Navbar />
+  <div className="max-w-screen-xl mx-auto">
+    <Banner />
+    <Features />
+    {/* <Projects /> */}
+    <Resume />
+    <Contact />
+    <Footer />
+    <FooterBottom />
+  </div>
+</div>
   );
 }
 
